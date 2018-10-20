@@ -1,7 +1,7 @@
-"""Insta485 model (database) API."""
+"""team10 model (database) API."""
 import sqlite3
 import flask
-import insta485
+import team10
 
 
 def dict_factory(cursor, row):
@@ -16,7 +16,7 @@ def get_db():
     """Open a new database connection."""
     if not hasattr(flask.g, 'sqlite_db'):
         flask.g.sqlite_db = sqlite3.connect(
-            insta485.app.config['DATABASE_FILENAME'])
+            team10.app.config['DATABASE_FILENAME'])
         flask.g.sqlite_db.row_factory = dict_factory
 
         # Foreign keys have to be enabled per-connection.  This is an sqlite3
@@ -26,7 +26,7 @@ def get_db():
     return flask.g.sqlite_db
 
 
-@insta485.app.teardown_appcontext
+@team10.app.teardown_appcontext
 def close_db(error):
     # pylint: disable=unused-argument
     """Close the database at the end of a request."""

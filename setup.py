@@ -1,11 +1,11 @@
-"""Insta485 python package configuration."""
+"""Team10 python package configuration."""
 
 from setuptools import setup
 
 setup(
-    name='insta485',
+    name='team10',
     version='0.1.0',
-    packages=['insta485'],
+    packages=['team10'],
     include_package_data=True,
     install_requires=[
         'flask',
