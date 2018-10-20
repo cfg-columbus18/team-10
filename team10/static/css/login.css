@@ -60,9 +60,9 @@
 	box-shadow: none;
 	border-color: #ccc;
 }
-.panel-footer {
+/*.panel-footer {
 	padding: 24px; 
-}
+}*/
 .btn-login {
 	background-color: #59B2E0;
 	outline: none;
@@ -91,7 +91,7 @@
 }
 
 .btn-mentor {
-	background-color: #1CB94E;
+	/*background-color: #1CB94E;
 	outline: none;
 	color: #fff;
 	font-size: 14px;
@@ -99,11 +99,11 @@
 	font-weight: normal;
 	padding: 14px 0;
 	text-transform: uppercase;
-	border-color: #1CB94A;
+	border-color: #1CB94A;*/
 }
 .btn-mentor:hover,
 .btn-mentor:focus {
-	color: #fff;
+	/*color: #fff;
 	background-color: #1CA347;
-	border-color: #1CA347;
+	border-color: #1CA347;*/
 }
