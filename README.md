@@ -8,3 +8,6 @@ We first identified that the main need that we needed to meet was that many grou
 ## 
 We will be making several different areas, such as matching and FAQ.
 
+## Difficulty areas
+1. Creating an effective pairing algorithm between sponsors and other sponsors.
+
