@@ -10,4 +10,4 @@ We will be making several different areas, such as matching and FAQ.
 
 ## Difficulty areas
 1. Creating an effective pairing algorithm between sponsors and other sponsors.
-
+2. Designing the website layout to accomodate people with different backgrounds.
