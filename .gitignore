@@ -2,6 +2,7 @@
 *.log
 *.egg-info/
 *.db
+*.exe
 *.pyc
 .DS_Store
 __pycache__/
