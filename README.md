@@ -1,5 +1,5 @@
 # team-10
-<i> Prerana Shenoy, Raghav Chetal, Charlie Luo </i>
+<i> Charlie Luo, Nathan Zhu, Prerana Shenoy, Raghav Chetal </i>
 
 <img src = "/team10/static/images/refugeehub.jpg"></img>
 ## Main Objective
