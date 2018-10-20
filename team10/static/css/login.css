@@ -60,6 +60,9 @@
 	box-shadow: none;
 	border-color: #ccc;
 }
+.panel-footer {
+	padding: 24px; 
+}
 .btn-login {
 	background-color: #59B2E0;
 	outline: none;
@@ -87,7 +90,7 @@
 	color: #666;
 }
 
-.btn-register {
+.btn-mentor {
 	background-color: #1CB94E;
 	outline: none;
 	color: #fff;
@@ -98,8 +101,8 @@
 	text-transform: uppercase;
 	border-color: #1CB94A;
 }
-.btn-register:hover,
-.btn-register:focus {
+.btn-mentor:hover,
+.btn-mentor:focus {
 	color: #fff;
 	background-color: #1CA347;
 	border-color: #1CA347;
