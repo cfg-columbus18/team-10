@@ -1,5 +1,5 @@
 # team-10
-<i> Put names here. </i>
+<i> Prerana Shenoy, Raghav Chetal </i>
 
 ## Main Objective
 
