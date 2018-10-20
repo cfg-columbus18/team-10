@@ -20,7 +20,6 @@ app.config.from_envvar('team10_SETTINGS', silent=True)
 # Disabling check since flask makes use of "env" parameter when deployed
 # pylint: disable=unused-argument
 def empty_app(env, resp):
-    """Exists for the purpose of deploying to 485 class servers."""
     resp('200 OK', [('Content-Type', 'text/plain')])
     return [b"Enforcing Prefix"]
 
